@@ -1,3 +1,2 @@
 # Curso de _Git_ & _GithHub_
-
-Hola soy tu padre MUAJAJAJAJAJAJAJAJA 🗣️
+Ciao, sto imparando a usare Git e GitHub. 
