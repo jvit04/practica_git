@@ -1,2 +1,4 @@
 console.log("Aprendiendo Git")
-console.log("^_____^")
+console.log("(╯‵□′)╯︵┻━┻")
+console.error()
+
