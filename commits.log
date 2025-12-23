@@ -1,0 +1,112 @@
+commit af127313e02add1ac64b05f664fe6dbadf7b5882
+Merge: 3248c15 18ce049
+Author: Jose <jviteri2004@gmail.com>
+Date:   Sat Nov 15 18:28:52 2025 -0500
+
+    Resolviendo conflicto amend
+
+commit 3248c15991313c28a9762e0dd52229f70e0e944f
+Author: Jose <jviteri2004@gmail.com>
+Date:   Sat Nov 15 18:04:19 2025 -0500
+
+    Cambiando el codigo con IA
+
+commit 18ce049910882a0e03e3946df9b78f3b0e1e7ebe
+Author: Jose <jviteri2004@gmail.com>
+Date:   Sat Nov 15 18:04:19 2025 -0500
+
+    Cambiando codigo de js con IA
+
+commit 5a88e202182ebe79b449c59076a810b4baecbc4c
+Merge: 1f284d6 5315e6d
+Author: Jose <jviteri2004@gmail.com>
+Date:   Sat Nov 15 17:55:42 2025 -0500
+
+    Resolviendo problema merge main/css
+
+commit 5315e6dc8b6821e58900c3870d63fa4f2da1cb05
+Author: Jose <jviteri2004@gmail.com>
+Date:   Sat Nov 15 17:50:11 2025 -0500
+
+    Agregando una linea que nose que hace
+
+commit 1f284d60a2ed57bceb0faa2767eb896242cc7616
+Author: Jose <jviteri2004@gmail.com>
+Date:   Sat Nov 15 17:48:21 2025 -0500
+
+    Agregando una linea mas
+
+commit e64b145db64c82ec583f17d32336dfb47cf87976
+Merge: bba8da0 b8c3f5d
+Author: Jose <jviteri2004@gmail.com>
+Date:   Sat Nov 15 14:59:50 2025 -0500
+
+    Merge branch 'js'
+
+commit b8c3f5d8c19a708553711ad16f0fcc2151c6a8ee
+Author: Jose <jviteri2004@gmail.com>
+Date:   Sat Nov 15 14:54:35 2025 -0500
+
+    Creando index.js
+
+commit bba8da065471889bea30dab936000ed16df899aa
+Author: Jose <jviteri2004@gmail.com>
+Date:   Sat Nov 15 14:49:38 2025 -0500
+
+    Agregando nuevo css con su rama
+
+commit cbe97662c7763610f10f7c2ab4e8cc072499642c
+Author: Jose <jviteri2004@gmail.com>
+Date:   Sat Nov 15 14:44:31 2025 -0500
+
+    Agregando html
+
+commit d267e68c24b5aa06e295ea0da572722a2bf45854
+Author: Jose <jviteri2004@gmail.com>
+Date:   Sat Nov 15 14:42:14 2025 -0500
+
+    "Agregando documento html"
+
+commit f01cf10e5c82b580e16bba5354b0e3809d82a14b
+Author: Jose <jviteri2004@gmail.com>
+Date:   Sat Nov 15 14:28:06 2025 -0500
+
+    ignorando archivos .exe
+
+commit 0637bc5fd13989a09bde25a9be937eb63fa45cf1
+Author: José <jviteri2004@gmail.com>
+Date:   Fri Nov 14 17:13:37 2025 -0500
+
+    Creando licencia del repositorio
+    
+    Creando licencia como practica
+
+commit 294b606a1125ec27f47b051537170c9a12b973bd
+Author: Jose <jviteri2004@gmail.com>
+Date:   Fri Nov 14 17:06:48 2025 -0500
+
+    Correcion ortografica
+
+commit cfcd00f65366486c3f38fc3ab10b62d40a1a01a9
+Author: Jose <jviteri2004@gmail.com>
+Date:   Fri Nov 14 17:05:51 2025 -0500
+
+    Agrego mas información al README
+
+commit d17044c4238de0c10182896190edf71a83c39a26
+Author: Jose <jviteri2004@gmail.com>
+Date:   Fri Nov 14 16:42:10 2025 -0500
+
+    Haciendo un mensaje mas serio
+
+commit 44971a2eefad37dbfbc704ca60b4e1d42689873c
+Author: Jose <jviteri2004@gmail.com>
+Date:   Fri Nov 14 16:25:13 2025 -0500
+
+    Agregando contenido inicial al README
+
+commit b02c0aa6cf13bf4c75161f250ffb55a344c856bc
+Author: Jose <jviteri2004@gmail.com>
+Date:   Fri Nov 14 16:18:46 2025 -0500
+
+    Primer commit 🗣️
